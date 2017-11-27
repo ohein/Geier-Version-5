@@ -85,7 +85,7 @@ public class HolsDerGeier {
 	 */
 	public void naechstesSpiel() {
 		if (spieler == null)
-			System.out.println("Noch keine Sieler angemeldet!");
+			System.out.println("Noch keine Spieler angemeldet!");
 		else {
 			System.out.println("===============");
 			System.out.println("= NEUES SPIEL, ES STEHT 0:0 =");
